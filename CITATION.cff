@@ -1,0 +1,13 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gürcan
+    given-names: Özgür Dogu
+    orcid: https://orcid.org/0000-0002-2278-1544
+title: "PRRLConv"
+version: 0.0.1
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15364440
+date-released: 2025-05-08
